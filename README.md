@@ -1,4 +1,4 @@
-# [MNIST_CNN](https://github.com/vaibhavthapli/MNIST_CNN)
+# MNIST_CNN
 
 
 This model is basic model to understand how CNN work.
